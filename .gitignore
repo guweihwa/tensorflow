@@ -22,5 +22,6 @@ node_modules
 
 tensorflow/examples/udacity/notMNIST.pickle
 tensorflow/examples/udacity/notMNIST_*
+tensorflow/examples/udacity/*.zip
 
 *.pyc
