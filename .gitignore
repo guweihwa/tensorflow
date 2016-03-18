@@ -19,4 +19,8 @@ node_modules
 /util/python/python_lib
 /pip_test
 /_python_build
+
+tensorflow/examples/udacity/notMNIST.pickle
+tensorflow/examples/udacity/notMNIST_*
+
 *.pyc
